@@ -1,0 +1,5 @@
+C:\Users\mrhitj\Documents\Csharp\Program\Shooter\Shooter\obj\Debug\Shooter.csprojResolveAssemblyReference.cache
+C:\Users\mrhitj\Documents\Csharp\Program\Shooter\Shooter\bin\Debug\Shooter.exe
+C:\Users\mrhitj\Documents\Csharp\Program\Shooter\Shooter\bin\Debug\Shooter.pdb
+C:\Users\mrhitj\Documents\Csharp\Program\Shooter\Shooter\obj\Debug\Shooter.exe
+C:\Users\mrhitj\Documents\Csharp\Program\Shooter\Shooter\obj\Debug\Shooter.pdb
